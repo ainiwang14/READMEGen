@@ -53,15 +53,17 @@ inquirer.prompt([
 
 
 ]).then(function(data) {
+    
+    var fileName = data.Title.toLowerCase().split(' ').join('') + "README.json";
 
 // function to write README file
-    fs.writeFile(fileName, JSON.stringify(data, null, '/t'), function(err) {
+    fs.writeFile(fileName, JSON.stringify(data, null, '\t'), function(err) {
         if (err) {
             throw err;
         }
         console.log("Success!")
     })
-}
+})
 
 // // function to initialize program
 // function init() {
