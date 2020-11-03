@@ -97,7 +97,7 @@ ${data["license"]}
 ## Contributors <a name="contributors"></a>
 [${data["contributors"]}](${data["contributors"]})
 
-## Tests <a name="test"></a>
+## Tests <a name="tests"></a>
 ${data["test"]}
 
 ## Questions <a name="questions"></a>
