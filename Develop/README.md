@@ -1,8 +1,8 @@
 
 # Title
-t
+Aileen's Project
 ## Description
-t
+This is a  README test
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,19 +12,19 @@ t
 * [Questions](#questions)
 
 ## Installation <a name="installation"></a>
-t
+npm i
 
 ## Usage <a name="usage"></a>
-t
+It asks you questions and then generates a readme. Run with node index.js
 
 ## License <a name="license"></a>
-Apache 2.0
+MIT
 
 ## Contributors <a name="contributors"></a>
-[t](t)
+[test@test.com](test@test.com)
 
-## Tests <a name="tests"></a>
-t
+## Tests <a name="test"></a>
+node test
 
 ## Questions <a name="questions"></a>
-[t](t)
+[test@test.com](test@test.com)
